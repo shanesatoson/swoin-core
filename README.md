@@ -28,4 +28,4 @@ Sign up today and start trading without any fees!
 
 # Provide an own nostr relay
 
-please follow [https://github.com/shanesatoson/swoin-core/tree/main/swoin-nostr-relay](Howto install Nost for Swoin)
+please follow (https://github.com/shanesatoson/swoin-core/tree/main/swoin-nostr-relay)[Howto install Nost for Swoin]
