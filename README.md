@@ -25,3 +25,7 @@ SWOIN works by matching buyers and sellers of cryptocurrencies. Buyers create or
 SWOIN is the future of crypto trading. It is a secure, decentralized, and fee-free platform that gives you more control over your trading experience.
 
 Sign up today and start trading without any fees!
+
+# Provide an own nostr relay
+
+please follow [https://github.com/shanesatoson/swoin-core/tree/main/swoin-nostr-relay](Howto install Nost for Swoin)
